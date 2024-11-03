@@ -3,7 +3,6 @@ import os
 
 from torch.utils.data import DataLoader
 from datasets import load_dataset
-from transformers import LlamaTokenizer
 
 # Local imports
 from writer import Writer
