@@ -4,6 +4,10 @@
 Pipeline for scraping/fetching poetry from the internet, fine-tuning LLM models with such data and
 generating poems using a given prompt.
 
+<img src="_images/readme_image.jpg" alt="Poetry Image" width="200"/>
+
+*Image by <a href="https://pixabay.com/users/sreeguru-15641113/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5496983">Sher Singh</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5496983">Pixabay</a>*
+
 ## Table of Contents
 
 - [LLM Poem Generator](#llm-poem-generator)
@@ -140,6 +144,8 @@ The generation part of the pipeline is responsible for generating poems using a 
 
 ## Edition
 This section describes the main directories and files of the project:
+
+- **_images**: Contains the images used in the README file.
 
 - **.gitattributes**: Contains the attributes of the files and directories that are pushed to the repository.
 
