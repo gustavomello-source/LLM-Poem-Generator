@@ -88,7 +88,7 @@ Where `repository.url` represents the repository address and `main-folder.git` r
 2. After cloning the project, open a terminal in the root folder of the project and navigate to the "LLM-Poem-Generator" directory.
    
 ```
-$ cd recruitment_project
+$ cd LLM-Poem-Generator
 ```
 
 
