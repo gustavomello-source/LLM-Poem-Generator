@@ -12,7 +12,7 @@ from Poet import PoetryModel
 from fetcher import convert_json_to_txt
 
 def main():
-    parser = argparse.ArgumentParser(description='The script executes the pipeline to fetch poetry data from the websites and generate poems using llama 3.1-8B model.') 
+    parser = argparse.ArgumentParser(description='The script executes the pipeline to fetch poetry data from the websites and generate poems using LLM models.') 
     parser.add_argument('--verbose', action='store_true', help='Enable verbose output.')
     parser.add_argument('--fetch', action='store_true', help='Fetch data from Poetrydb.')
 
